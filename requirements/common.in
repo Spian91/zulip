@@ -179,3 +179,5 @@ decorator
 
 # Needed for SAML authentication.
 python3-saml
+
+django-crowd-auth
